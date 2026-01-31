@@ -20,7 +20,7 @@ A Chrome extension that helps you overcome procrastination by reducing the frict
 
 1. Clone or download this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/quickstart-extension.git
+   git clone https://github.com/fouzankhan2000/lockin.git
    ```
 
 2. Open Chrome and navigate to `chrome://extensions`
